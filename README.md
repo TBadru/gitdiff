@@ -1,7 +1,19 @@
-# Tauri + SvelteKit + TypeScript
+# GitDiff
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+**WORK IN PROGRESS**
 
-## Recommended IDE Setup
+blazing-fast, local-first git diff viewer with focus mode and word-level diff powered by Tauri, Rust & Svelte.
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+
+## Features
+
+- **TBA** 
+
+## Tech
+
+Gitdiff is a [Tauri](https://tauri.app/)-based desktop application. Its UI is written in [Svelte](https://svelte.dev/) using [TypeScript](https://www.typescriptlang.org) and its backend is written in [Rust](https://www.rust-lang.org/).
+
+## License
+
+MIT
+
